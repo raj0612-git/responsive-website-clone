@@ -1,4 +1,4 @@
-### 🎓 **Project Title: Responsive Website Clone Using HTML and CSS**
+# Responsive Website Clone
 
 ---
 
