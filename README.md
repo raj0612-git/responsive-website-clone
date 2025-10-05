@@ -1,12 +1,8 @@
 # Responsive Website Clone
 
----
-
 ### 📄 **Project Overview:**
 
 This project demonstrates the creation of a **responsive website layout clone** using **HTML5 and CSS3**, designed by a student as part of web development learning. It showcases a well-structured modern UI with responsive design principles, suitable for desktop and mobile viewing.
-
----
 
 ### 💡 **Key Features:**
 
@@ -34,15 +30,11 @@ This project demonstrates the creation of a **responsive website layout clone** 
 * **Footer Section**
   Includes contact information, social media icons, and copyright.
 
----
-
 ### 🧰 **Technologies Used:**
 
 * **HTML5** – Semantic and structured markup.
 * **CSS3** – Modern layout design using Flexbox, Grid, and Media Queries.
 * **Font Awesome** – For icons and visual enhancements.
-
----
 
 ### 📚 **Learning Outcome:**
 
